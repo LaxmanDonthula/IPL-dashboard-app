@@ -17,10 +17,9 @@ In this project, let's fix the **IPL Dashboard** by applying the concepts we hav
 - Start up the app using `npm start`
 </details>
 
-### Completion Instructions
 
 <details>
-<summary>Functionality to be fixed</summary>
+<summary>Functionality of the code</summary>
 <br/>
 
 The given code have the following functionality
