@@ -1,5 +1,7 @@
 In this project, **IPL Dashboard** the following functionalities are made.
 
+### Project Link : https://ipldemoapp.ccbp.tech
+
 ### Refer to the image below:
 
 <br/>
